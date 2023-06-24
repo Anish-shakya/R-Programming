@@ -13,7 +13,7 @@ The last two–complex and raw–aren’t as common in data analysis
 # 2) List:
 A list in R can contain many different data types inside it. A list is a collection of data that is ordered and changeable.
 To create a list, we can use the list() function.
-You can refer to the above list.r program to know about some method that can be used along with list
+You can refer to the above list.r program to know about some method that can be used along with list...
 
     
   
