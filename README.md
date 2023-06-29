@@ -44,6 +44,14 @@ Some data Summarizing functions
 2) glimpse(penguins)
 ![datacleaning](https://github.com/Anish-shakya/R-Programming/assets/64535767/b5770237-c67a-49ed-aa33-55b1221f2b99)
 
+Some use of Data filtering and sorting functions.
+1)   group_by() : group the data 
+2)   filter() : filters data in the basic of criteria
+3)   drop_na() : ignores null data
+4)   arrange() : Sorts the data in ascending and descending order
+![datacleaning2](https://github.com/Anish-shakya/R-Programming/assets/64535767/ebc38e87-b296-4903-937d-08efbc79079a)
+
+
 
     
   
