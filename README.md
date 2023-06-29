@@ -32,10 +32,10 @@ There are some packages that need to be installed that will help in data manipul
 1) here  -> install.packages("here")  then load the package  library(here)
 2) skimr -> install.packages("skimr")  then load the package  library(skimr)
 3) janitor -> install.packages("janitor")  then load the package  library(janitor)
-4) dplyr -> install.packages("dplyr")  then load the package  library(dpylr)
+4) dplyr -> install.packages("dplyr")  then load the package  library(dpylr) .
 These packages have functions for cleaning and manipulating data.
 
-Installing the dataset that contains information about the penguin
+Installing the dataset that contains information about the penguin.
 install.packages("palmerpenguins")
 library(palmerpenguins)
 
