@@ -26,5 +26,24 @@ Some important functions to remember:👇
 3) colnames() : Helps to view the column names present in data frame
 4) summary() : Helps to  summarize the data from a Data Frame
 5) glimpse() : Used to see the columns of the dataset and display some portion of the data with respect to each attribute that can fit on a single line.
+
+# DataCleaning:
+There are some packages that need to be installed that will help in data manipulation and data cleaning in R.
+1) here  -> install.packages("here")  then load the package  library(here)
+2) skimr -> install.packages("skimr")  then load the package  library(skimr)
+3) janitor -> install.packages("janitor")  then load the package  library(janitor)
+4) dplyr -> install.packages("dplyr")  then load the package  library(dpylr)
+These packages have functions for cleaning and manipulating data.
+
+Installing the dataset that contains information about the penguin
+install.packages("palmerpenguins")
+library(palmerpenguins)
+
+Some data Summarizing functions
+1) skim_without_charts(penguins)
+2) glimpse(penguins)
+![datacleaning](https://github.com/Anish-shakya/R-Programming/assets/64535767/b5770237-c67a-49ed-aa33-55b1221f2b99)
+
+
     
   
