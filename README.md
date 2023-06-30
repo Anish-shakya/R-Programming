@@ -51,6 +51,11 @@ Some use of Data filtering and sorting functions.
 4)   arrange() : Sorts the data in ascending and descending order
 ![datacleaning2](https://github.com/Anish-shakya/R-Programming/assets/64535767/ebc38e87-b296-4903-937d-08efbc79079a)
 
+# Data Transforming
+Data transformation is a crucial step in data analysis and manipulation, and R provides several powerful functions and packages to perform various data transformations. Here are some  methods I used for data transformation in R
+1) separate(): can be used to split the columns
+2) unite(): Used to combine the columns
+![DataTransforming](https://github.com/Anish-shakya/R-Programming/assets/64535767/4e8675e7-ac47-4804-80c6-731c8b794446)
 
 
     
