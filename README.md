@@ -9,11 +9,14 @@ There are six primary types of atomic vectors: logical, integer, double, charact
 The last two–complex and raw–aren’t as common in data analysis
 ![image](https://github.com/Anish-shakya/R-Programming/assets/64535767/e6a453bc-95a1-441c-9b61-e45fc5019888)
 ![image](https://github.com/Anish-shakya/R-Programming/assets/64535767/1d617195-7d96-4948-bc8d-2217d0846948)
+![Vector](https://github.com/Anish-shakya/R-Programming/assets/64535767/dd12622c-1a0a-4311-bd2c-0a74848721d0)
+
 
 # 2) List:
 A list in R can contain many different data types inside it. A list is a collection of data that is ordered and changeable.
 To create a list, we can use the list() function.
 You can refer to the above list. r program to know about some methods that can be used along with a list.
+![list](https://github.com/Anish-shakya/R-Programming/assets/64535767/0070fe41-d03a-45d0-b85b-901430bcb6dc)
 
 # Pipe:
 R pipes are a way to chain multiple operations together in a concise and expressive way. They are represented by the %>% operator, which takes the output of the expression on its left and passes it as the first argument to the function on its right. Using pipes in R allows us to link a sequence of analysis steps.
