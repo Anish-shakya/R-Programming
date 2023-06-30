@@ -62,6 +62,13 @@ Data transformation is a crucial step in data analysis and manipulation, and R p
 2) unite(): Used to combine the columns
 ![DataTransforming](https://github.com/Anish-shakya/R-Programming/assets/64535767/4e8675e7-ac47-4804-80c6-731c8b794446)
 
+# Anscombe's Quartet
+Four datasets that have nearly identical summary statistics
+![Dara](https://github.com/Anish-shakya/R-Programming/assets/64535767/5c0e0cb0-a9c8-453f-a37a-113a635eaa47)
+![image](https://github.com/Anish-shakya/R-Programming/assets/64535767/31af9564-e910-468d-b10e-8a684335f0a4)
+![image](https://github.com/Anish-shakya/R-Programming/assets/64535767/38ce9443-1b67-4f14-b462-4378ea78c3a8)
+
+
 
     
   
