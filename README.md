@@ -95,7 +95,7 @@ The core concept of ggplot2
 ### cheat sheet for ggplot2
 [data-visualization.pdf](https://github.com/Anish-shakya/R-Programming/files/11929147/data-visualization.pdf)
 
-
+![dataviz](https://github.com/Anish-shakya/R-Programming/assets/64535767/77c3786c-792e-43d3-ad14-67581c9456cf)
 
 
 
