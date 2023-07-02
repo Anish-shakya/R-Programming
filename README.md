@@ -73,7 +73,28 @@ In R, the term "bias function" is not a built-in concept or function. However, i
 ![bias](https://github.com/Anish-shakya/R-Programming/assets/64535767/57a36262-a41c-424c-acd4-21987665030c)
 
 # Data Visualization in R
-|----|----|
+Data visualization is the technique used to deliver insights into data using visual cues such as graphs, charts, maps, and many others. This is useful as it helps in an intuitive and easy understanding of the large quantities of data and thereby makes better decisions regarding it.
+- ggplot2 is one of the data visualization libraries provided by R language. Throughout my course, I have use this library to visualized the data
+
+Benefits of ggplot2
+- Create different types of plots
+- Customize the look and feel of plots
+- Create high-quality visuals
+- Combine data manipulation and visualization
+
+The core concept of ggplot2
+- Aesthetic(R): A visual Property of an object in your plot
+![image](https://github.com/Anish-shakya/R-Programming/assets/64535767/7f24c6d1-fad9-4985-b3e0-d910ff395f0a)
+
+- Geom (R): The geometric object used to represent your data
+![image](https://github.com/Anish-shakya/R-Programming/assets/64535767/a68f6a9e-a61c-49c6-abf3-ec9aa7acff54)
+
+- Facets (R): Let you display smaller groups  or subsets of your data
+- Labels and annotations (R): Let you customize your plot
+
+### cheat sheet for ggplot2
+[data-visualization.pdf](https://github.com/Anish-shakya/R-Programming/files/11929147/data-visualization.pdf)
+
 
 
 
