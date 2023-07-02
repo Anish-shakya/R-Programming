@@ -125,5 +125,20 @@ By applying these aesthetic attributes to your work with ggplot2, you can create
 
 ![image](https://github.com/Anish-shakya/R-Programming/assets/64535767/e37bae5a-72f9-41cb-95d1-da580038a3ff)
 
+### working with facet function in geom
+In ggplot2, the facet_*() functions are used to create small multiples or panels based on one or more categorical variables. These functions allow you to split your data into subsets and create separate plots for each subset
+![Facet](https://github.com/Anish-shakya/R-Programming/assets/64535767/5a02813e-ff49-4a08-b2f8-458efa342083)
+
+- Scatter plot with points colored by species and facetted by species
+![image](https://github.com/Anish-shakya/R-Programming/assets/64535767/3bfd127d-1b11-46d5-a7a3-eff3fa2021ed)
+
+- Bar chart with bars colored by cut and facetted by cut
+![image](https://github.com/Anish-shakya/R-Programming/assets/64535767/0e2a115d-b327-4e73-a4d9-f7f2a2e5c5b8)
+
+- Scatter plot with points colored by species and facetted by sex and species
+![image](https://github.com/Anish-shakya/R-Programming/assets/64535767/7022ce86-0c67-4ff1-abd9-1113410e1545)
+
+
+
 
 
