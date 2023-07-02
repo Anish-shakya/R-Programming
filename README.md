@@ -72,6 +72,8 @@ Four datasets that have nearly identical summary statistics
 In R, the term "bias function" is not a built-in concept or function. However, it may refer to a function used in the context of statistical bias or bias correction.
 ![bias](https://github.com/Anish-shakya/R-Programming/assets/64535767/57a36262-a41c-424c-acd4-21987665030c)
 
+# Data Visualization in R
+|----|----|
 
 
 
