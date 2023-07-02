@@ -97,7 +97,24 @@ The core concept of ggplot2
 
 ![dataviz](https://github.com/Anish-shakya/R-Programming/assets/64535767/77c3786c-792e-43d3-ad14-67581c9456cf)
 
+### Aesthetics in ggplot2
+Ggplot2 is an R package that allows you to create different types of data visualizations right in your R workspace. In ggplot2, an aesthetic is defined as an optical property of an object in your plot. 
 
+There are three aesthetic attributes in ggplot2:
+- Color: this allows you to change the color of all of the points on your plot or the color of each data group
+- Size: this allows you to change the size of the points on your plot by data group
+- Shape: this allows you to change the shape of the points on your plot by data group
+Here’s an example of how aesthetic attributes are displayed in R:
 
-    
-  
+ggplot(data, aes(x=distance, y= dep_delay, color=carrier, size=air_time, shape = carrier)) +
+      geom_point()
+By applying these aesthetic attributes to your work with ggplot2, you can create data visualizations in R that clearly communicate trends in your data.
+
+![Aesthetics](https://github.com/Anish-shakya/R-Programming/assets/64535767/d0957061-bc92-4b57-b349-fd49d070c227)
+
+### working more with Geom Functions
+|Function|Description|
+|--------|-----------|
+|geom_point|used to create scatter plots|
+|geom_bar|used to create bar charts|
+|geom_line|used to create line charts|
