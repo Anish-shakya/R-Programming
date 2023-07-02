@@ -115,6 +115,15 @@ By applying these aesthetic attributes to your work with ggplot2, you can create
 ### working more with Geom Functions
 |Function|Description|
 |--------|-----------|
-|geom_point|used to create scatter plots|
-|geom_bar|used to create bar charts|
-|geom_line|used to create line charts|
+|geom_point()|used to create scatter plots|
+|geom_bar()|used to create bar charts|
+|geom_line()|used to create line charts|
+
+![MoreGeomFunction](https://github.com/Anish-shakya/R-Programming/assets/64535767/1d2e3cb9-233c-420e-9b4d-b0c1293ab9b3)
+
+![image](https://github.com/Anish-shakya/R-Programming/assets/64535767/389f4001-049b-4f34-8bb8-fc73c7ab1862)
+
+![image](https://github.com/Anish-shakya/R-Programming/assets/64535767/e37bae5a-72f9-41cb-95d1-da580038a3ff)
+
+
+
